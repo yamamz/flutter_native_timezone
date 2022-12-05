@@ -1,3 +1,5 @@
+## 2.0.3
+fix podspecs not found error
 ## 2.0.2
 
 fix podspecs not found
