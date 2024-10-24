@@ -26,6 +26,8 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 30
 
+    namespace 'com.whelksoft.flutter_native_timezone'
+
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
